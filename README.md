@@ -6,7 +6,7 @@ A gear/equipment calculator for Black Desert Online ([Demo Here](https://shadowt
 
 ## Current Version: 0.4.0
 
-See [the changelog](https://github.com/Shadowtrance/BDO-Gear-Calculator/blob/update/CHANGELOG.md) for details.
+See [the changelog](https://github.com/Shadowtrance/BDO-Gear-Calculator/blob/master/CHANGELOG.md) for details.
 
 
 ## Status
